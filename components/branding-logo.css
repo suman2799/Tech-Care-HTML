@@ -1,0 +1,12 @@
+.branding-logo-container {
+  display: flex;
+  position: relative;
+}
+.branding-logo-branding-logo {
+  box-sizing: content-box;
+}
+@media(max-width: 767px) {
+  .branding-logo-branding-logo {
+    width: 80px;
+  }
+}
